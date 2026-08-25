@@ -3,13 +3,13 @@
 // Programacion IV
 // UNLaR - Sede Chamical
 
-import javax.swing.JButton;     // Botón clickeable
-import javax.swing.JFrame;      // La ventana principal del programa
-import javax.swing.JLabel;      // Texto fijo, no editable por el usuario
-import javax.swing.JOptionPane; // Ventanas emergentes de diálogo (mensajes, alertas)
-import javax.swing.JPanel;      // Contenedor donde se agrupan otros componentes
-import javax.swing.JTextField;  // Caja de texto donde el usuario puede escribir
-import java.awt.Font;           // Para personalizar tipografía, tamaño y estilo del texto
+import javax.swing.JButton;     
+import javax.swing.JFrame;      
+import javax.swing.JLabel;      
+import javax.swing.JOptionPane; 
+import javax.swing.JPanel;      
+import javax.swing.JTextField;  
+import java.awt.Font;           
 
 // Cambio a  "App" para que coinsida con el archivo
 public class App {
